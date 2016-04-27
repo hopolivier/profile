@@ -67,6 +67,17 @@ p {
   padding-left: 0px;
 }
 
+.movie-poster {
+  width: 200px;
+  height: 300px;
+  background: white;
+  /*  border: 1px solid f09181;*/
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  margin: 20 auto;
+}
+
 .img-circle {
   border-radius: 50%;
   border: 3px solid;

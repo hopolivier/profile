@@ -22,7 +22,7 @@
           </a>
         </li>
         <li>
-          <a href="#last-favorite-movies">
+          <a href="#favorite-movies">
             <i class="fa fa-film"></i>
           </a>
         </li>
@@ -62,45 +62,39 @@
             </li>
           </ul>
         </div>
-        <div id="last-favorite-movies" class="card text-center">
-          <h2>Some films i liked in recent years</h2>
+        <div id="favorite-movies" class="card text-center">
+          <h2>My favorite movies</h2>
           <table>
             <tr>
               <td>
-                <div>
-                  <img src="images/mud.jpg" class="movie-poster">
-                </div>
+                <img src="images/marnie2.jpg" width="200" height="200">
               </td>
               <td>
-                <h3>Mud</h3>
+                <h3>Pas de printemps pour Marnie</h3>
                 <p>
-                Two 14-year-old boys in De Witt, Arkansas, Ellis (Tye Sheridan) and Neckbone (Jacob Lofland), have found a boat stuck high in a tree on a small island in the Arkansas River. They want to claim it for themselves but discover someone is living in it. They meet him, a strange man named Mud (Matthew McConaughey), who claims to have grown up nearby. He tells the boys that he needs food and promises to give them the boat if they help him while he stays on the island.
+                Mark Rutland a déjà vu Marnie Edgar. Il sait qu'à chaque nouvel emploi, celle-ci déleste ses employeurs. Intrigué par son comportement et attiré par sa fascinante beauté, il l'engage tout de même comme secrétaire-comptable dans sa maison d'édition et guette un faux pas, tout en entreprenant de mieux la connaître et de tenter de la séduire
                 </p>
               </td>
             </tr>
             <tr>
               <td>
-                <div>
-                  <img src="images/mommy.jpg" class="movie-poster">
-                </div>
+                <img src="images/mon_oncle.jpg" width="200" height="200">
               </td>
               <td>
-                <h3>Mommy</h3>
+                <h3>Mon oncle</h3>
                 <p>
-                A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.
+                Monsieur Arpel, riche industriel et fier de sa maison futuriste bardée de gadgets technologiques à l'utilité improbable, veut éviter que son beau-frère, M. Hulot, personnage rêveur et bohème, n'influence son fils. Il va essayer de lui confier un emploi dans son usine afin de l'éloigner
                 </p>
               </td>
             </tr>
             <tr>
               <td>
-                <div>
-                  <img src="images/imitation_game.jpg" class="movie-poster">
-                </div>
+                <img src="images/the_sting.jpg" width="200" height="200">
               </td>
               <td>
-                <h3>Imitation game</h3>
+                <h3>L'arnaque</h3>
                 <p>
-                Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.
+                Une bande de trois petits arnaqueurs dépouille par hasard un convoyeur de fonds d'un grand bandit de la pègre de New York
                 </p>
               </td>
             </tr>

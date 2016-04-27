@@ -40,7 +40,7 @@ p {
 }
 
 .container {
-  width: 500px;   /* Set width */
+  width: 90%;   /* Set width */
   margin: 0 auto; /* Automatically set left/right margins */
 }
 

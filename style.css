@@ -71,3 +71,29 @@ p {
   border-radius: 50%;
   border: 3px solid;
 }
+
+#sidebar {
+  position: fixed;
+  width: 120px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #B75C47;
+  text-align: center;
+}
+
+#sidebar li {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0px 35px;
+  padding-left: 0px;
+  font-size: 26px;
+}
+
+#sidebar ul {
+  list-style: none;
+}
+
+#page-content {
+  margin-left: 120px;
+}
